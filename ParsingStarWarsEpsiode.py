@@ -32,18 +32,20 @@ number = 0
 lenght= []
 for i in SW:
     lenght.append(len(i))
-    print(f'{number}. satirin uzunlugu: {len(i)} = {i}')
+#    print(f'{number}. satirin uzunlugu: {len(i)} = {i}')
     number += 1
-print(lenght)
+#print(lenght)
 
 #Tum satirlarin uzunluklarini cikar OK
 
-
-
-
-
 #en uzun satir kacinci sirada ve icinde ne yaziyor
-print(lenght.max())
+
+en_uzun_satır = lenght.index(max(lenght))
+
+print(max(lenght))
+print(lenght.index(max(lenght)))
+print(SW[en_uzun_satır])
+
 
 
 
