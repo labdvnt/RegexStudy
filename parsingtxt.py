@@ -65,7 +65,7 @@ print('------------------------------------------------')
 #'^..kara..$' burada 'kara..$' demek anlamı karadan önce .. iki tane herhangi bir şey $ bunlada bitiş başka bir şey gelmesin demek 
 for f in words:
     pattern = '^..kara..$'
-    match = re.match(pattern, f)
+    match = re.search(pattern, f)
     if match:
         print(f)
 
@@ -76,7 +76,7 @@ print('------------------------------------------------')
 
 for f in words:
     pattern = '^kr$'
-    match = re.match(pattern, f)
+    match = re.search(pattern, f)
     if match:
         print(f)
 
@@ -88,7 +88,7 @@ print('------------------------------------------------')
 
 for f in words:
     pattern = '^k.r$'
-    match = re.match(pattern, f)
+    match = re.search(pattern, f)
     if match:
         print(f)
 
@@ -99,7 +99,7 @@ print('------------------------------------------------')
 
 for f in words:
     pattern = '^k..r$'
-    match = re.match(pattern, f)
+    match = re.search(pattern, f)
     if match:
         print(f)
 
@@ -110,7 +110,7 @@ print('------------------------------------------------')
 
 for f in words:
     pattern = '^k...r$'
-    match = re.match(pattern, f)
+    match = re.search(pattern, f)
     if match:
         print(f)
 
@@ -122,7 +122,7 @@ print('------------------------------------------------')
 
 for f in words:
     pattern = '^k....r$'
-    match = re.match(pattern, f)
+    match = re.search(pattern, f)
     if match:
         print(f)
 
@@ -133,7 +133,7 @@ print('------------------------------------------------')
 
 for f in words:
     pattern = '^k.....r$'
-    match = re.match(pattern, f)
+    match = re.search(pattern, f)
     if match:
         print(f)
 
@@ -144,7 +144,7 @@ print('------------------------------------------------')
 
 for f in words:
     pattern = '^k............r$'
-    match = re.match(pattern, f)
+    match = re.search(pattern, f)
     if match:
         print(f)
 
@@ -157,7 +157,7 @@ print('------------------------------------------------')
 
 for f in words:
     pattern = '^k.{13}r$'
-    match = re.match(pattern, f)
+    match = re.search(pattern, f)
     if match:
         print(f)
 
@@ -169,7 +169,7 @@ print('------------------------------------------------')
 
 for f in words:
     pattern = '^k.{13,18}r$'
-    match = re.match(pattern, f)
+    match = re.search(pattern, f)
     if match:
         print(f)
 

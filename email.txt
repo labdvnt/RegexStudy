@@ -1,0 +1,135 @@
+"Warning: could not send message for past 4 hours";"    **********************************************
+    **      THIS IS A WARNING MESSAGE ONLY      **
+    **  YOU DO NOT NEED TO RESEND YOUR MESSAGE  **
+    **********************************************
+
+The original message was received at Tue, 18 Feb 2003 09:41:22 +0200
+from [10.81.1.250]
+
+   ----- The following addresses had transient non-fatal errors -----
+<sakird@destek-bih.com.tr>
+
+   ----- Transcript of session follows -----
+451 <sakird@destek-bih.com.tr>... destek-bih.com.tr: Name server timeout
+Warning: message still undelivered after 4 hours
+Will keep trying until message is 5 days old
+"Warning: could not send message for past 4 hours";"    **********************************************
+    **      THIS IS A WARNING MESSAGE ONLY      **
+    **  YOU DO NOT NEED TO RESEND YOUR MESSAGE  **
+    **********************************************
+
+The original message was received at Tue, 18 Feb 2003 10:00:03 +0200
+from [10.81.1.250]
+
+   ----- The following addresses had transient non-fatal errors -----
+<selcuk_duru@bilsist.com>
+
+   ----- Transcript of session follows -----
+451 <selcuk_duru@bilsist.com>... bilsist.com: Name server timeout
+Warning: message still undelivered after 4 hours
+Will keep trying until message is 5 days old
+"Warning: could not send message for past 4 hours";"    **********************************************
+    **      THIS IS A WARNING MESSAGE ONLY      **
+    **  YOU DO NOT NEED TO RESEND YOUR MESSAGE  **
+    **********************************************
+
+The original message was received at Tue, 18 Feb 2003 09:58:43 +0200
+from [10.81.1.250]
+
+   ----- The following addresses had transient non-fatal errors -----
+<selahattin@fulda.com.tr>
+
+   ----- Transcript of session follows -----
+451 <selahattin@fulda.com.tr>... fulda.com.tr: Name server timeout
+Warning: message still undelivered after 4 hours
+Will keep trying until message is 5 days old
+"Warning: could not send message for past 4 hours";"    **********************************************
+    **      THIS IS A WARNING MESSAGE ONLY      **
+    **  YOU DO NOT NEED TO RESEND YOUR MESSAGE  **
+    **********************************************
+
+The original message was received at Tue, 18 Feb 2003 09:59:54 +0200
+from [10.81.1.250]
+
+   ----- The following addresses had transient non-fatal errors -----
+<selcuk@narpilic.com.tr>
+
+   ----- Transcript of session follows -----
+451 <selcuk@narpilic.com.tr>... narpilic.com.tr: Name server timeout
+Warning: message still undelivered after 4 hours
+Will keep trying until message is 5 days old
+"Warning: could not send message for past 4 hours";"    **********************************************
+    **      THIS IS A WARNING MESSAGE ONLY      **
+    **  YOU DO NOT NEED TO RESEND YOUR MESSAGE  **
+    **********************************************
+
+The original message was received at Tue, 18 Feb 2003 09:21:29 +0200
+from [10.81.1.250]
+
+   ----- The following addresses had transient non-fatal errors -----
+<rammy1th@nightmail.com>
+
+   ----- Transcript of session follows -----
+451 <rammy1th@nightmail.com>... nightmail.com: Name server timeout
+Warning: message still undelivered after 4 hours
+Will keep trying until message is 5 days old
+"Warning: could not send message for past 4 hours";"    **********************************************
+    **      THIS IS A WARNING MESSAGE ONLY      **
+    **  YOU DO NOT NEED TO RESEND YOUR MESSAGE  **
+    **********************************************
+
+The original message was received at Tue, 18 Feb 2003 09:45:59 +0200 Erdeniz Unvan
+from [10.81.1.250]
+
+   ----- The following addresses had transient non-fatal errors -----
+<sariucar@teksline.com>
+
+   ----- Transcript of session follows -----
+451 <sariucar@teksline.com>... teksline.com: Name server timeout 
+Warning: message still undelivered after 4 hours
+Will keep trying until message is 5 days old
+"Warning: could not send message for past 4 hours";"    **********************************************
+    **      THIS IS A WARNING MESSAGE ONLY      ** eardenis@gmail.com
+    **  YOU DO NOT NEED TO RESEND YOUR MESSAGE  **
+    **********************************************
+
+The original message was received at Tue, 18 Feb 2003 09:48:01 +0200
+from [10.81.1.250]
+
+   ----- The following addresses had transient non-fatal errors -----
+<satis@teknobim.com.tr>
+
+   ----- Transcript of session follows -----
+451 <satis@teknobim.com.tr>... teknobim.com.tr: Name server timeout
+Warning: message still undelivered after 4 hours
+Will keep trying until message is 5 days old
+"Warning: could not send message for past 4 hours";"    **********************************************
+    **      THIS IS A WARNING MESSAGE ONLY      **
+    **  YOU DO NOT NEED TO RESEND YOUR MESSAGE  **
+    **********************************************
+
+The original message was received at Tue, 18 Feb 2003 09:51:09 +0200
+from [10.81.1.250]
+
+   ----- The following addresses had transient non-fatal errors ----- eunvan@knowledgeclub.net
+<sberber@inter.com.tr>
+
+   ----- Transcript of session follows -----
+451 <sberber@inter.com.tr>... inter.com.tr: Name server timeout
+Warning: message still undelivered after 4 hours
+Will keep trying until message is 5 days old
+"Warning: could not send message for past 4 hours";"    **********************************************
+    **      THIS IS A WARNING MESSAGE ONLY      **
+    **  YOU DO NOT NEED TO RESEND YOUR MESSAGE  **
+    **********************************************
+
+The original message was received at Tue, 18 Feb 2003 09:19:37 +0200
+from [10.81.1.250]
+
+   ----- The following addresses had transient non-fatal errors -----
+<rabia@hotmail.gen.tr>
+
+   ----- Transcript of session follows -----
+451 <rabia@hotmail.gen.tr>... hotmail.gen.tr: Name server timeout
+Warning: message still undelivered after 4 hours eunvan@knowledgeclub.net
+Will keep trying until message is 5 days old
